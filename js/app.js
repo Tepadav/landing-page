@@ -169,7 +169,7 @@ window.onload = () => {
         }
 
         // Hide nav menu while not scrolling
-        if(scrollTime !== null) {
+        if (scrollTime !== null) {
             clearTimeout(scrollTime);
             document.querySelector('.page__header').style.top = '0'
         }
