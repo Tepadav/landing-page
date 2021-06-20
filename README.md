@@ -1,13 +1,15 @@
 # Landing Page Project
 
-## Table of Contents
+## General Information
+__Project Name__: Landing Page
 
-* [Instructions](#instructions)
+__Description__: 
+> It's the final product of udicity landing page (proejct 1)
 
-## Instructions
+It's a landing page that have 4 sections each has an id of "section*N*" when scrolling on each section it's activated by showing a shadow on the bacground of the section. It also has a navigation menu. Each button on the navigation menu changes its colors upon hovering on it. Navigation menu becomes hidden when the user stop scrolling. Navigation menu also obtained its links automatically according to the sections of the page. The landing page also has "up button", which is a button element, upon clicking it scroll top the screen and then disappear. All features that's described are made using native javascript.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+__Author__: Udicity Team
 
-To get started, open `js/app.js` and start building out the app's functionality
+__Edited by__: Peter Amir
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+__Github Link__: [Landing Page](https://github.com/Tepadav/landing-page "landing-page")
